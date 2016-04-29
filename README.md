@@ -15,9 +15,7 @@ In cases when the application logic could not benefit from using range mappings 
 
 A ShardMapManagerFactory.GetSqlShardMapManager method takes credentials (including the server name and database name holding the GSM) in the form of a ConnectionString and returns an instance of a ShardMapManager.  If the geo-replication is enabled, we can query master database of the instance where Primary database is hosted. 
 
-string connectionString = GetMasterConnectionString();
- 
- 
+            string connectionString = GetMasterConnectionString();
             using (var conn = new SqlConnection(connectionString))
             
             {
