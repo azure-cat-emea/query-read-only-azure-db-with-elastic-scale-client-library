@@ -1,6 +1,8 @@
-Guidance: Query Azure SQL DB Read-Only Replicas with the Elastic Database Client library
+# Query Azure SQL DB Read-Only Replicas with the Elastic Database Client library #
 
-Synopsis
+
+
+## Synopsis ##
 
 Elastic Database  client library  provides with the quite powerful logic for developing sharded applications using hundreds and more of the SQL Azure databases on Microsoft Azure.  Many customers use geo-replication configuration in order to maintain reliable Azure Databases copy and to offload some ‘read -intent’ workloads, such as reporting queries. The geo-replicated Azure Databases are ‘true read only”, where   Elastic Database configuration requires read/write access to the database for managing sharding metadata. This projects demonstrates how to leverage both Elastic Database client library and read-only geo-replica of the SQL Azure DB.
 
@@ -9,7 +11,7 @@ Depending on the logic, application may need to execute query against all shards
 Data dependent routing is the ability to route the request to the appropriate database based on the sharding key. Sharding key gets validated against the Range Shard Map to calculate appropriate connection string. 
 In cases when the application logic could not benefit from using range mappings the execution of the query on each of the shards might be the viable solution. ShardMapManager will be queried for constructing the connection strings to the individual databases 
 
-Constructing connection to the secondary Azure DB
+## Constructing connection to the secondary Azure DB ##
 
 A ShardMapManagerFactory.GetSqlShardMapManager method takes credentials (including the server name and database name holding the GSM) in the form of a ConnectionString and returns an instance of a ShardMapManager.  If the geo-replication is enabled, we can query master database of the instance where Primary database is hosted. 
 
@@ -67,7 +69,7 @@ ShardMapManager will give the information about the shard database which has to 
 
 
 
-Executing fan out query
+Executing fan-out query
 
                 ShardMapManager smm = ShardMapManagerFactory.GetSqlShardMapManager(
                 GetConnectionString(), ShardMapManagerLoadPolicy.Eager);
@@ -153,7 +155,7 @@ Executing fan out query
         }
 
 
-Running the sample 
+## Running the sample  ##
 
 Download the project and compile it.  Open command line and execute query in the format:
 
