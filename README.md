@@ -11,6 +11,8 @@ Depending on the logic, application may need to execute query against all shards
 Data dependent routing is the ability to route the request to the appropriate database based on the sharding key. Sharding key gets validated against the Range Shard Map to calculate appropriate connection string. 
 In cases when the application logic could not benefit from using range mappings the execution of the query on each of the shards might be the viable solution. ShardMapManager will be queried for constructing the connection strings to the individual databases 
 
+![](https://github.com/azure-cat-emea/query-read-only-azure-db-with-elastic-scale-client-library/blob/master/ESDBgraph.jpg)
+
 ## Constructing connection to the secondary Azure DB ##
 
 A ShardMapManagerFactory.GetSqlShardMapManager method takes credentials (including the server name and database name holding the GSM) in the form of a ConnectionString and returns an instance of a ShardMapManager.  If the geo-replication is enabled, we can query master database of the instance where Primary database is hosted. 
