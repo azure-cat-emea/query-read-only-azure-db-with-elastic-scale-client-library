@@ -1,3 +1,11 @@
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\bin\Debug\CMDShardQuery.exe.config
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\bin\Debug\CMDShardQuery.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\bin\Debug\CMDShardQuery.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\obj\Debug\Elastic Scale DB RO range query CMD.csprojResolveAssemblyReference.cache
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\obj\Debug\CMDShardQuery.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query CMD\obj\Debug\CMDShardQuery.pdb
 C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\bin\Debug\CMDShardQuery.exe.config
 C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\obj\Debug\CMDShardQuery.exe
 C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\obj\Debug\CMDShardQuery.pdb

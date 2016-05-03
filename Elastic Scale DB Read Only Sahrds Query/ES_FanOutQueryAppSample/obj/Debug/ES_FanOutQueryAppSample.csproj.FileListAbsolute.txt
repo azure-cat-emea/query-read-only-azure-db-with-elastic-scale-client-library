@@ -1,0 +1,7 @@
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\bin\Debug\CMDShardQuery.exe.config
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\bin\Debug\CMDShardQuery.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\bin\Debug\CMDShardQuery.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\obj\Debug\ES_FanOutQueryAppSample.csprojResolveAssemblyReference.cache
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\obj\Debug\CMDShardQuery.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_FanOutQueryAppSample\obj\Debug\CMDShardQuery.pdb

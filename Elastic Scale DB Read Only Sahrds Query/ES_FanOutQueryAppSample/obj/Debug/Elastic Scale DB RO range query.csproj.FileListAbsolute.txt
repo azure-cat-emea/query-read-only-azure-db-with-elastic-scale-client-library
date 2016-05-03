@@ -1,0 +1,8 @@
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\obj\Debug\ConsoleApplication1.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\bin\Debug\ConsoleApplication1.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\Elastic Scale DB Read Only range query\obj\Debug\Elastic Scale DB RO range query.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\Elastic Scale DB Read Only Sahrds Query\ConsoleApplication1\obj\Debug\Elastic Scale DB RO.csprojResolveAssemblyReference.cache

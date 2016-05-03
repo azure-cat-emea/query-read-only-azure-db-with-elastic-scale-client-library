@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-S v8r8tefc0a.database.windows.net,1433 -d ElasticScaleStarterKit_ShardMapManagerDb -sm CustomerIDShardMap -U AlexeiK -P Pass%40word1!</StartArguments>
+  </PropertyGroup>
+</Project>

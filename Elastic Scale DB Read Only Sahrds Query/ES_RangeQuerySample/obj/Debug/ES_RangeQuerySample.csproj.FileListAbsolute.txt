@@ -1,0 +1,1 @@
+C:\Users\alexeik\Documents\Visual Studio 2015\Projects\query-read-only-azure-db-with-elastic-scale-client-library\Elastic Scale DB Read Only Sahrds Query\ES_RangeQuerySample\obj\Debug\ES_RangeQuerySample.csprojResolveAssemblyReference.cache
