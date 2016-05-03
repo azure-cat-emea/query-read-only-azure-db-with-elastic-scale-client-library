@@ -153,11 +153,11 @@ namespace MySQLQuery
     public class CommandLine
     {
         // Values that are read from the command line
-        public string UserName = "AlexeiK";
+        public string UserName = "User";
 
-        public string Password = "Pass@word1!";
+        public string Password = "Password";
 
-        public string ServerName = "v8r8tefc0a.database.windows.net";
+        public string ServerName = "server.database.windows.net";
 
         public string DatabaseName = "ElasticScaleStarterKit_ShardMapManagerDb";
 
